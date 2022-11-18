@@ -3,7 +3,7 @@ def finalResult(a, b, bi):
         if bi == "i":
             print(f"The final result is: {a} + {b}i")
         else:
-            print(f"The final result is: {a} -{b}i")
+            print(f"The final result is: {a} - {b}i")
     else:
         print(f"The final result is: {a + bi}")
 
